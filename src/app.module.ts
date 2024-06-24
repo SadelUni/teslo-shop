@@ -23,7 +23,6 @@ import { AuthModule } from './auth/auth.module';
       entities: [],
       synchronize: true,
     }),
-
     ProductsModule,
     CommonModule,
     SeedModule,
